@@ -2,3 +2,12 @@ img{
     width: 100%;
 }
 
+body div div div{
+    width: 200px;
+    border: solid 1px;
+    border-radius: 20px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
